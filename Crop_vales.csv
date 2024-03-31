@@ -1,0 +1,50 @@
+Crop_Name,Soil_Moisture,Moisture_value,Temperature,Sunlight,Humidity,Soil_Type,Region-1,Region-2,Region-3,Region-4,Region-5,Profitable
+Paddy,75,0.75,37,140,14,Loam,AP,TS,Karnataka,TN,UP,1
+Cotton,75,0.75,32,740,74,Black,Maharashtra,Gujarat,Karnataka,AP,TN,0
+Wheat,60,0.6,25,50,5,Loam,AP,TS,Karnataka,TN,UP,1
+Millet,95,0.95,10,490,49,Balck,Maharashtra,Gujarat,Karnataka,AP,TN,0
+Pulses,60,0.6,22,310,31,Sandy loamy,UP,Haryana,Punjab,Bihar,Rajasthan,0
+Tea,13,0.13,32,800,80,well drained,West Bengal,Bihar,Odisha,Meghalaya,Rajasthan,0
+coffee,64,0.64,28,120,12,Sandy loamy,UP,Haryana,Punjab,Bihar,Rajasthan,1
+Sugar cane,80,0.8,35,750,75,Black,Maharashtra,Gujarat,Karnataka,AP,TN,0
+Soil Seeds,54,0.54,20,110,11,Loam,AP,TS,Karnataka,TN,UP,1
+jute,52,0.52,30,490,49,Alluvial,Punjab,Haryana,UP,Bihar,West Bengal,0
+Soya beans,50,0.5,30,650,65,well drained,West Bengal,Bihar,Odisha,Meghalaya,Rajasthan,0
+Tubers,47,0.47,20,350,35,Loamy,AP,TS,Karnataka,TN,UP,1
+Tomato,45,0.45,29,470,47,well drained,West Bengal,Bihar,Odisha,Meghalaya,Rajasthan,1
+laddy Finger,43,0.43,35,310,31,Sandy loam,UP,Haryana,Punjab,Bihar,Rajasthan,1
+potato,40,0.4,30,130,13,Sandy ,Rajasthan,Punjab,Gujarat,Haryana,Punjab,0
+Brinjal,38,0.38,30,150,15,well drained,UP,Haryana,Punjab,Bihar,Rajasthan,1
+Rubber,36,0.36,25,670,67,Literate,Maharashtra,Karnataka,AP,West Bengal,Orissa,0
+Drum stick,33,0.33,30,460,46,well drained,West Bengal,Bihar,Odisha,Meghalaya,Rajasthan,0
+Pappya,31,0.31,29,450,45,Loamy,AP,TS,Karnataka,TN,UP,0
+Apple,29,0.29,32,410,41,Loamy,AP,TS,Karnataka,TN,UP,0
+orange,26,0.26,40,50,5,Light,AP,TS,Karnataka,TN,UP,1
+Lemon,24,0.24,29,700,70,Light,AP,TS,Karnataka,TN,UP,0
+Dragan,22,0.22,25,70,7,Loamy,AP,TS,Karnataka,TN,UP,0
+Banna,19,0.19,38,480,48,Alluvial,Punjab,Haryana,UP,Bihar,West Bengal,0
+grapes,17,0.17,37,620,62,Sandy loamy,UP,Haryana,Punjab,Bihar,Rajasthan,1
+Water Melon,15,0.15,29,600,60,Sandy loamy,UP,Haryana,Punjab,Bihar,Rajasthan,0
+Pumpkin,12,0.12,30,290,29,Neutral,TN,Maharashtra,Karnataka,AP,TS,0
+Pine Apple,10,0.1,30,340,34,Aerated,Karnataka,Maharashtra,Punjab,TS,AP,0
+Bitter Ground,80,0.8,27,120,12,well drained,UP,Haryana,Punjab,Bihar,Rajasthan,1
+Bottle Ground,57,0.57,27,320,32,Sandy loamy,UP,Haryana,Punjab,Bihar,Rajasthan,1
+Beans,12,0.12,30,250,25,Slightly acidic ,UP,Kerala,West Bengal,AP,TN,0
+Mirchi,10,0.1,38,790,79,Alluvial,Punjab,Haryana,UP,Bihar,West Bengal,0
+Tobaco,12,0.12,27,790,79,Sandy loamy,UP,Haryana,Punjab,Bihar,Rajasthan,1
+Guava,30,0.3,26,660,66,Alkaline,Gujarat,Rajasthan,Haryana,Punjab,UP,0
+Sapota,50,0.5,38,630,63,Alluvial,Punjab,Haryana,UP,Bihar,West Bengal,0
+Mangoes,80,0.8,40,450,45,Sandy loamy,UP,Haryana,Punjab,Bihar,Rajasthan,0
+litchi,10,0.1,35,300,30,Deep well Drained,Punjab,Haryana,Rajasthan,Gujarat,Maharasthtra,0
+Kivi,12,0.12,45,670,67,well drained,UP,Haryana,Punjab,Bihar,Rajasthan,1
+Ground nuts,15,0.15,30,340,34,Regular Soil,Punjab,TN,West Bengal,Gujarat,Maharasthtra,1
+Sun Flower,17,0.17,32,800,80,Sandy loamy,UP,Haryana,Punjab,Bihar,Rajasthan,1
+Straw berry,19,0.19,24,230,23,well drained,UP,Haryana,Punjab,Bihar,Rajasthan,0
+cap Sicum,22,0.22,30,640,64,Loamy,AP,TS,Karnataka,TN,UP,1
+carrot,24,0.24,20,350,35,Loamy,AP,TS,Karnataka,TN,UP,1
+beat root,26,0.26,21,590,59,Sandy ,Rajasthan,Punjab,Gujarat,Haryana,Punjab,1
+onion,29,0.29,25,750,75,Silt loam,UP,Punjab,MP,Haryana,Gujarat,0
+cucumbur,31,0.31,27,250,25,Sandy loamy,UP,Haryana,Punjab,Bihar,Rajasthan,0
+califlower,33,0.33,20,230,23,Sandy loamy,UP,Haryana,Punjab,Bihar,Rajasthan,0
+Tamanrind,36,0.36,37,360,36,Fertile,UP,MP,AP,TS,TN,1
+Jack,38,0.38,12,690,69,Rich Sandy,Punjab,UP,MP,Haryana,Rajasthan,0
